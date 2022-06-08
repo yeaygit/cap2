@@ -13,5 +13,8 @@
 
 ### 프로젝트 내용
 <li>기존 프로젝트 분석</li>
+
 <li>데이터 시각화 기법 탐색</li>
 <li>데이터 시각화 </li>
+<img width="343" alt="complete" src="https://user-images.githubusercontent.com/72953987/172543853-ae7e17f1-ae4a-4016-8a6f-5a50374883c9.PNG">
+
